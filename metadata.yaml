@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13644#The-Mirror-of-Literature-Amusement-and-Instruction--13-Volume-13-No.-360-March-14-1829
 gutenberg_bookshelf: The Mirror of Literature, Amusement, and Instruction
 gutenberg_issued: '2004-10-05'
 gutenberg_type: Text
